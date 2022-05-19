@@ -1,0 +1,3 @@
+1- Testes funcionais tem como objetivo validar uma funcionalidade, enquanto os testes de unidade servem para a validação de um componente do código.
+
+2- Testes de unidade são construídos com base em um código, método ou classe em mente (ou como referência), enquanto testes funcionais podem ser independentes do código (testes de caixa preta)
